@@ -46,7 +46,7 @@ Finishing a B.S. in Data Science at Nevada State University (Dec 2026), with two
 
 **Sentiment & Toxicity at Scale** — Senior capstone comparing content moderation across Twitter/X and Bluesky using DistilBERT, VADER, and TextBlob on ~19k posts. Platform culture matters more than platform rules.
 
-**[henokytilahun.com](https://henokytilahun.com)** — Personal portfolio, built in Next.js. Designed editorially. Constantly iterated on.
+**[henokytilahun.com](https://henokytilahun.com)** — Personal portfolio, built in Next.js. Designed editorially. Constantly iterated on. (vibe-coded)
 
 **PwC Internships (2024, 2025)** — Data analytics & AI one summer, data engineering the next. Real clients, real pipelines, real stakes.
 
